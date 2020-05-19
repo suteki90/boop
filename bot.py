@@ -238,7 +238,7 @@ async def report(ctx, *, issue=None):
 
 @client.command()
 async def doesthiswork(ctx):
-  await ctx.send('well, ya')
+  await ctx.send('well, ya bro')
 
 
 extensions = ['fun', 'misc', 'image', 'utility']
